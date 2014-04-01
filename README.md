@@ -1,13 +1,7 @@
-libgdx-demo-vector pinball
+libgdx-demo-very angry robots
 ====================
 
-  Libgdx demo - Vector pinball
+  Libgdx demo - Very Angry Robots
 
-This is an authorized port of Brian Nenninger's Vector Pinball game to libgdx. Cleaned up the temporary object allocations and made the game endless to play :p. Thanks Brian!
-
-All code is GPL. For more info visit:
-
-(http://www.dozingcatsoftware.com/VectorPinball/index.html)
-
-![vectorpinball](http://i.imgur.com/OTQxIy2.png)
+![veryangryrobots](http://i.imgur.com/SHDyI07.png)
 
