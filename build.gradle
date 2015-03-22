@@ -16,7 +16,7 @@ allprojects {
     version = "1.0"
     ext {
         appName = "Very-Angry-Robots"
-        gdxVersion = "1.0-SNAPSHOT"
+        gdxVersion = "1.5.5"
         roboVMVersion = "0.0.10"
     }
     
