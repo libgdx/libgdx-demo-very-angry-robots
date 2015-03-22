@@ -286,7 +286,7 @@ public class World {
 	private final SceneryHandler<Player> playerSceneryHandler = new SceneryHandler<Player>() {
 		@Override
 		public void onCollision (Player player, Rectangle r) {
-			player.inCollision = true;
+			player.inCollision = false;
 		}
 	};
 
